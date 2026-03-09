@@ -1,0 +1,14 @@
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\bin\Debug\net8.0\time complexity.exe
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\bin\Debug\net8.0\time complexity.deps.json
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\bin\Debug\net8.0\time complexity.runtimeconfig.json
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\bin\Debug\net8.0\time complexity.dll
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\bin\Debug\net8.0\time complexity.pdb
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.AssemblyInfoInputs.cache
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.AssemblyInfo.cs
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.csproj.CoreCompileInputs.cache
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.dll
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\refint\time complexity.dll
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.pdb
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\time complexity.genruntimeconfig.cache
+C:\Users\goyal\OneDrive\Desktop\TRAINING\dau 26 projects\time complexity\obj\Debug\net8.0\ref\time complexity.dll
