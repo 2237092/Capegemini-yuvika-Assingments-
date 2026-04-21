@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BEC frontend/BEC frontend.csproj" Id="65dedcfd-999f-4bdb-8a02-3ff7492c6c75" />
+  <Project Path="enquiryapi/BECwebapi.csproj" />
+</Solution>
